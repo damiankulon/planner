@@ -9,5 +9,8 @@
   "author": "Damian Kulon",
   "engines": {
     "node": "20.11.1"
+  },
+  "dependencies": {
+    "vite": "^5.1.5"
   }
 }
