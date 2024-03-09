@@ -1,0 +1,13 @@
+{
+  "name": "planner",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Damian Kulon",
+  "engines": {
+    "node": "20.11.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damiankulon/planner.git"
+  }
+}
