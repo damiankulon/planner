@@ -9,5 +9,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/damiankulon/planner.git"
+  },
+  "scripts": {
+    "setup": "cat .nvmrc | nvm install; nvm use",
   }
 }
