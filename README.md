@@ -22,7 +22,9 @@
 - &#x2610; Create your team
 - &#x2610; Create schedules
 - &#x2610; Allocate resources
-- &#x2610; Schedule and monitor everyone’s workload
+- &#x2610; Schedule and monitor everyone`s workload
 - &#x2610; Plan projects
 - &#x2610; The full picture for scheduling project work
 - &#x2610; Manage time off
+
+# Getting Started
