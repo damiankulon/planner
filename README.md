@@ -14,6 +14,9 @@
 ## Needs
 <p align="left">I want to create an open-source resource management application for small teams.</p>
 
+## Technologies
+- NodeJS
+
 
 # Features
 <!-- &#x2610; checkbox empty
