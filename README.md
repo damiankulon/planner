@@ -18,7 +18,7 @@
 - NodeJS
 
 
-# Features
+## Features
 <!-- &#x2610; checkbox empty
      &#x2705; checkbox full green
 -->
@@ -30,4 +30,10 @@
 - &#x2610; The full picture for scheduling project work
 - &#x2610; Manage time off
 
-# Getting Started
+## Getting Started
+
+TBA
+
+## Contributing
+
+Feel free to contribute to the project. Your feedback and contributions are highly appreciated!
