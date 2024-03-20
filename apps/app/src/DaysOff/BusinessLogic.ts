@@ -16,7 +16,14 @@ export type DaysOffEvent =
     | {
     type: 'RemovedFromTotalAmountOfLeave';
     data: {
-        shoppingCartId: string;
+        userId: string;
         amount: number;
     };
-};
+}
+  
+    | {
+    type: 'ExchangeAmountOfLeave';
+    data: {
+        userId: string;
+        amount: number;
+    };
