@@ -6,6 +6,13 @@ export type DaysOffEvent =
         amount: number;
     };
 }
+   | {
+    type: 'moveLeaveFromPreviousCompany';
+    data: {
+        userId: string;
+        amount: number;
+    };
+}
     | {
     type: 'AddedToTotalAmountOfLeave';
     data: {
