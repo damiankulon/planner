@@ -12,7 +12,7 @@
 > <p align="left">Application created for the competition <a href="https://100commitow.pl">#100commitow</a> created by <a href="https://devmentors.io/">DevMentors</a></p>
 
 ## Needs
-<p align="left">I want to create an open-source resource management application for small teams.</p>
+<p align="left">I want to create an open-source holiday management application for small teams.</p>
 
 ## Technologies
 - NodeJS
