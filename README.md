@@ -17,6 +17,7 @@
 ## Technologies
 - NodeJS
 - Typescript
+- React
 
 
 ## Features
