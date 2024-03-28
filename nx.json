@@ -1,6 +1,7 @@
 {
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
   "defaultBase": "master",
+  "neverConnectToCloud": true,
   "namedInputs": {
     "default": ["{projectRoot}/**/*", "sharedGlobals"],
     "production": [
@@ -36,5 +37,4 @@
       }
     }
   ],
-  "nxCloudAccessToken": "ZTc5NDg5MGYtOWQwNi00NTAxLThmZWYtNWE2NmI3OGYwNDIzfHJlYWQtd3JpdGU="
 }
