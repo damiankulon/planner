@@ -18,6 +18,7 @@
 - NodeJS
 - Typescript
 - React
+- ExpressJS
 
 
 ## Features
