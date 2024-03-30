@@ -1,3 +1,5 @@
+import { Command } from '@event-driven-io/emmett';
+
 export type DaysOffEvent =
   {
     type: 'AddNewDays';
@@ -35,3 +37,12 @@ export type DaysOffEvent =
     amount: number;
   };
 };
+
+
+export type AddNewDaysToUserBalance = Command<
+  'AddNewDaysToUserBalance',
+  {
+    userId: string;
+    amount: number;
+  }
+>;
