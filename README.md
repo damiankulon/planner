@@ -20,6 +20,8 @@
 - React
 - ExpressJS
 
+## Goals
+Learn ES
 
 ## Features
 <!-- &#x2610; checkbox empty
