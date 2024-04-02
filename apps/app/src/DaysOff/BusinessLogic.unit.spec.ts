@@ -19,7 +19,7 @@ describe('DayOff', () => {
           amount:1,
           addedAt: oldTime,
         },
-      })
+      }).when({})
     })
   });
 });
