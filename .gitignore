@@ -29,6 +29,8 @@ node_modules
 /connect.lock
 /coverage
 /libpeerconnection.log
+logs
+*.log
 npm-debug.log
 yarn-error.log
 testem.log
@@ -39,3 +41,13 @@ testem.log
 Thumbs.db
 
 .nx/cache
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# dotenv environment variable files
+*.env
+*.env.development.local
+*.env.test.local
+*.env.production.local
+*.env.local
