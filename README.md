@@ -21,7 +21,7 @@
 - ExpressJS
 
 ## Goals
-Learn ES
+Learn Event Driven Architecture in NodeJS.
 
 ## Features
 <!-- &#x2610; checkbox empty
