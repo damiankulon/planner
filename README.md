@@ -21,24 +21,24 @@
 - ExpressJS
 
 ## Goals
-Learn Event Driven Architecture in NodeJS.
+Learn Event-Driven Architecture in NodeJS.
 
 ## Features
 <!-- &#x2610; checkbox empty
      &#x2705; checkbox full green
 -->
-- &#x2610; Create your team
-- &#x2610; Manage time off
-- &#x2610; Check all scheduled leaves in the calendar view
-- &#x2610; Automatic notifications for employees on any status change of their submitted request
+- [ ] Create your team
+- [ ] Manage time off
+- [ ] Check all scheduled leaves in the calendar view
+- [ ] Automatic notifications for employees on any status change of their submitted request
 
 
 ## Nice to have
-- &#x2610; Create schedules
-- &#x2610; Allocate resources
-- &#x2610; Schedule and monitor everyone`s workload
-- &#x2610; Plan projects
-- &#x2610; The full picture for scheduling project work
+- [ ] Create schedules
+- [ ] Allocate resources
+- [ ] Schedule and monitor everyone`s workload
+- [ ] Plan projects
+- [ ] The full picture for scheduling project work
 
 ## Start the application
 
