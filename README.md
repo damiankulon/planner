@@ -24,9 +24,7 @@
 Learn Event-Driven Architecture in NodeJS.
 
 ## Features
-<!-- &#x2610; checkbox empty
-     &#x2705; checkbox full green
--->
+- [ ] API
 - [ ] Create your team
 - [ ] Manage time off
 - [ ] Check all scheduled leaves in the calendar view
