@@ -21,7 +21,7 @@
 - ExpressJS
 
 ## Goals
-Learn Event-Driven Architecture in NodeJS.
+Learn React, Typescript, ExpressJS and Event-Driven Architecture in NodeJS. 
 
 ## Features
 - [ ] API
